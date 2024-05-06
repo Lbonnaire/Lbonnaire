@@ -3,7 +3,7 @@
 I'm Louis, 
 I’m a developer with a specialization in Human-Technology Interaction (HTI). My skills help me bridge the gap between users and developers. I enjoy working on both Front-End and Back-End development, with a passion for creating clear and efficient UIs. I enjoy taking on challenges and the problem-solving nature of coding. 
 
-I'm currently actively looking for a full-stack position around Utrecht. I have experience coding in multiple languages but my main language is C#. I have garnered C# skills by coding Unity applications to create games and interfaces. My most recent public project is the Aimclicker  project available on GitHub (https://github.com/Lbonnaire/AimClicker). Aimclicker subverts the tedious aspect of learning how to aim with a mouse by enriching it through gamification using an idle game.
+I'm currently actively looking for a full-stack position around Utrecht. I have experience coding in multiple languages but my main language is C#. I have garnered C# skills by coding Unity applications to create games and interfaces. My most recent public project is the Aimclicker  project available on GitHub (https://github.com/Lbonnaire/AimClicker). Aimclicker subverts the tedious aspect of practicing accuracy with a mouse by enriching it through gamification using an idle game.
 
 
 If you are interested in my profile or have questions regarding one of the applications you can reach me by sending an email to bonnairelouis@gmail.com.
