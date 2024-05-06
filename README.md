@@ -5,7 +5,7 @@ I’m a developer with a specialization in Human-Technology Interaction (HTI). M
 
 I'm currently actively looking for a full-stack position around Utrecht. I have experience coding in multiple languages and my main languages are C# and Angular. 
 I have garnered C# skills by coding Unity applications to create games and interfaces. My most recent C# project is the Aimclicker project available on GitHub (https://github.com/Lbonnaire/AimClicker). Aimclicker subverts the tedious aspect of practicing accuracy with a mouse by enriching it through gamification using an idle game.
-My most recent Angular project is from a freelance project for a virtual business card service. While the active build is not yet deployed, a prototype build has been made available to explore the various site features without requiring passwords to access administrative functions. The prototype can be found at <a href="https://cartedevisite-86133.web.app/en/" target="_blank">here</a>
+My most recent Angular project is from a freelance project for a virtual business card service. While the active build is not yet deployed, a prototype build has been made available to explore the various site features without requiring passwords to access administrative functions. The prototype can be found <a href="https://cartedevisite-86133.web.app/en/" target="_blank">here</a>.
 
 
 
